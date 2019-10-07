@@ -7,6 +7,7 @@
       <p><b>电子与信息学院</b></p>
       <p><b>South China University of Technology   华南理工大学</b></p>
       <p><b>Email：auczn@mail.scut.edu.cn</b></p>
+      <p><b>Zhounan Chen is currently a prospective M.S. student in School of Eletronic and Information Engieering, SCUT. He is expected to obtain his B.Eng. degree from School of Automation Science and Engineering, SCUT by 2020.</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
