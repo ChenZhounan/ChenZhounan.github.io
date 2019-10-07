@@ -3,8 +3,8 @@
   <tr>
     <td width="75%">
       <h1>Zhounan Chen</h1>
-      <p><b>Student</b></p>
-      <p><b>学院</b></p>
+      <p><b>Master Student</b></p>
+      <p><b>电子与信息学院</b></p>
       <p><b>South China University of Technology   华南理工大学</b></p>
       <p><b>Email：auczn@mail.scut.edu.cn</b></p>
       <p><a href="/index-en.html">English Version</a></p>
