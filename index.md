@@ -10,7 +10,7 @@
       <p><b>Zhounan Chen is currently a prospective M.S. student in School of Eletronic and Information Engieering, SCUT. He is expected to obtain his B.Eng. degree from School of Automation Science and Engineering, SCUT by 2020.</b></p>
     </td>
     <td width="25%">
-      <img src="/2018.jpg" width="100%">
+      <img src="/2018_1.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -25,6 +25,9 @@
 
 ### 荣誉奖励
 - 奖学金
+2019-华南理工大学一等奖学金
+2018-华为奖学金
+2017-华南理工大学三等奖学金
 - 荣誉称号
 - 比赛获奖
 
