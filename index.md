@@ -17,17 +17,17 @@
 </div>
 
 ### News
-- 2019.05——广东省第十五届“挑战杯”大学生课外学术科技作品竞赛决赛特等奖 (High Accuracy Mobile Robot Localization based on ROS System using Visible Light Positioning Algorithm)
+- 2019.05——广东省第十五届“挑战杯”大学生课外学术科技作品竞赛决赛特等奖 (works：High Accuracy Mobile Robot Localization based on ROS System using Visible Light Positioning Algorithm)
 - 2018.09——广东省大学生电子设计竞赛——“人工智能”专题竞赛一等奖（作品：交互AI助手小车）
 
 ### 研究方向
 - 计算机视觉-场景文本检测
 
 ### 荣誉奖励
-- 奖学金
-2019-华南理工大学一等奖学金
-2018-华为奖学金
-2017-华南理工大学三等奖学金
-- 荣誉称号
-- 比赛获奖
+#### 奖学金
+- 2019-华南理工大学 一等奖学金
+- 2018-华为奖学金
+- 2017-华南理工大学 三等奖学金
+#### 荣誉称号
+
 
