@@ -10,7 +10,7 @@
       <p><b>Zhounan Chen is currently a prospective M.S. student in School of Eletronic and Information Engieering, SCUT. He is expected to obtain his B.Eng. degree from School of Automation Science and Engineering, SCUT by 2020.</b></p>
     </td>
     <td width="25%">
-      <img src="/me.jpg" width="100%">
+      <img src="/2018.jpg" width="100%">
     </td>
   </tr>
 </table>
